@@ -1,0 +1,41 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 27 Sep 2019 17:36:27 at http://rn53themes.net/themes/demo/travelz/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://rn53themes.net/themes/demo/travelz/ -O1 "C:\Users\shawan\Desktop\the travel\The travel" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+17:44:38	Error: 	"Not Found" (404) at link rn53themes.net/themes/demo/travelz/hotel-detail.html (from rn53themes.net/themes/demo/travelz/)
+17:45:11	Warning: 	Retry after error 409 (Conflict) at link rn53themes.net/themes/demo/travelz/register.html (from rn53themes.net/themes/demo/travelz/)
+17:45:11	Error: 	"Not Found" (404) at link rn53themes.net/themes/demo/travelz/forgot-pass.html target= (from rn53themes.net/themes/demo/travelz/)
+17:45:12	Warning: 	Retry after error 409 (Conflict) at link rn53themes.net/themes/demo/travelz/contact.html (from rn53themes.net/themes/demo/travelz/)
+17:49:28	Error: 	"Not Found" (404) at link rn53themes.net/themes/demo/travelz/places-3.html (from rn53themes.net/themes/demo/travelz/main.html)
+17:51:21	Error: 	"Not Found" (404) at link rn53themes.net/themes/demo/travelz/db-travel-hotel-details.html (from rn53themes.net/themes/demo/travelz/hotels-list.html)
+17:51:21	Error: 	"Not Found" (404) at link rn53themes.net/themes/demo/travelz/db-hotel-hotel-details.html (from rn53themes.net/themes/demo/travelz/hotels-list.html)
+17:51:21	Error: 	"Not Found" (404) at link rn53themes.net/themes/demo/travelz/db-event-hotel-details.html (from rn53themes.net/themes/demo/travelz/hotels-list.html)
+17:51:21	Warning: 	Retry after error 409 () at link rn53themes.net/themes/demo/travelz/register.html (from rn53themes.net/themes/demo/travelz/)
+17:51:21	Warning: 	Retry after error 409 () at link rn53themes.net/themes/demo/travelz/contact.html (from rn53themes.net/themes/demo/travelz/)
+17:51:36	Error: 	"Not Found" (404) at link rn53themes.net/themes/demo/travelz/images/search.png (from rn53themes.net/themes/demo/travelz/css/style.css)
+17:51:36	Error: 	"Not Found" (404) at link rn53themes.net/themes/demo/travelz/images/login.jpg (from rn53themes.net/themes/demo/travelz/css/style.css)
+17:51:36	Error: 	"Not Found" (404) at link rn53themes.net/themes/demo/travelz/images/pro-bg.jpg (from rn53themes.net/themes/demo/travelz/css/style.css)
+17:51:36	Error: 	"Not Found" (404) at link rn53themes.net/themes/demo/travelz/images/mm-col-bg.png (from rn53themes.net/themes/demo/travelz/css/style.css)
+17:51:36	Error: 	"Not Found" (404) at link rn53themes.net/themes/demo/travelz/images/bg.jpeg (from rn53themes.net/themes/demo/travelz/css/style.css)
+17:51:36	Error: 	"Not Found" (404) at link rn53themes.net/themes/demo/travelz/fonts/glyphicons-halflings-regular.eot (from rn53themes.net/themes/demo/travelz/css/bootstrap.css)
+17:51:36	Error: 	"Not Found" (404) at link rn53themes.net/themes/demo/travelz/fonts/glyphicons-halflings-regular.eot? (from rn53themes.net/themes/demo/travelz/css/bootstrap.css)
+17:51:36	Error: 	"Not Found" (404) at link rn53themes.net/themes/demo/travelz/fonts/glyphicons-halflings-regular.woff2 (from rn53themes.net/themes/demo/travelz/css/bootstrap.css)
+17:51:36	Error: 	"Not Found" (404) at link rn53themes.net/themes/demo/travelz/fonts/glyphicons-halflings-regular.woff (from rn53themes.net/themes/demo/travelz/css/bootstrap.css)
+17:51:36	Error: 	"Not Found" (404) at link rn53themes.net/themes/demo/travelz/fonts/glyphicons-halflings-regular.ttf (from rn53themes.net/themes/demo/travelz/css/bootstrap.css)
+17:51:36	Error: 	"Not Found" (404) at link rn53themes.net/themes/demo/travelz/fonts/glyphicons-halflings-regular.svg (from rn53themes.net/themes/demo/travelz/css/bootstrap.css)
+17:51:38	Error: 	"Not Found" (404) at link rn53themes.net/themes/demo/travelz/admin/fonts/glyphicons-halflings-regular.eot (from rn53themes.net/themes/demo/travelz/admin/css/bootstrap.css)
+17:51:38	Error: 	"Not Found" (404) at link rn53themes.net/themes/demo/travelz/admin/fonts/glyphicons-halflings-regular.eot? (from rn53themes.net/themes/demo/travelz/admin/css/bootstrap.css)
+17:51:38	Error: 	"Not Found" (404) at link rn53themes.net/themes/demo/travelz/admin/fonts/glyphicons-halflings-regular.woff2 (from rn53themes.net/themes/demo/travelz/admin/css/bootstrap.css)
+17:51:38	Error: 	"Not Found" (404) at link rn53themes.net/themes/demo/travelz/admin/fonts/glyphicons-halflings-regular.woff (from rn53themes.net/themes/demo/travelz/admin/css/bootstrap.css)
+17:51:38	Error: 	"Not Found" (404) at link rn53themes.net/themes/demo/travelz/admin/fonts/glyphicons-halflings-regular.ttf (from rn53themes.net/themes/demo/travelz/admin/css/bootstrap.css)
+17:51:38	Error: 	"Not Found" (404) at link rn53themes.net/themes/demo/travelz/admin/fonts/glyphicons-halflings-regular.svg (from rn53themes.net/themes/demo/travelz/admin/css/bootstrap.css)
+17:51:44	Error: 	"" (409) after 2 retries at link rn53themes.net/themes/demo/travelz/register.html (from rn53themes.net/themes/demo/travelz/)
+17:51:44	Error: 	"" (409) after 2 retries at link rn53themes.net/themes/demo/travelz/contact.html (from rn53themes.net/themes/demo/travelz/)
+17:51:44	Error: 	"Not Found" (404) at link rn53themes.net/themes/demo/travelz/admin/listing-edit.html (from rn53themes.net/themes/demo/travelz/admin/sight-see-all.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 15 minutes 17 seconds : 377 links scanned, 346 files written (26028307 bytes overall) [23507146 bytes received at 25634 bytes/sec], 3412674 bytes transferred using HTTP compression in 116 files, ratio 20%
+(26 errors, 4 warnings, 0 messages)
